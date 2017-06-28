@@ -14,7 +14,7 @@
 #
 # $mode::     Mode of the repository root. Defaults to 0755.
 #
-# $bin::      Git binary. Defaults to /usr/bin/git or /usr/local/bin/git. 
+# $bin::      Git binary. Defaults to /usr/bin/git or /usr/local/bin/git.
 #
 # == Usage:
 #
